@@ -1,0 +1,15 @@
+{
+    "name": "danieldiaz/poo",
+    "autoload": {
+        "psr-4": {
+            "Danieldiaz\\Poo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daniel Díaz",
+            "email": "69810853+danield413@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
